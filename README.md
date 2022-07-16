@@ -43,6 +43,14 @@ Extract in a FAT32 USB, and boot from it, it will load the custom bios UI, Now i
 
 On AMI Bios, in addition to AMD PBS and CBS will be shown also "Setup", this is the regular bios, the edit here might not be saved (AMD PBS/CBS, Aod Setup)
 
+## Donate note this goes to the original creator of this tool not me
+
+I'll leave these two crypto addresses here, just in case :-D :
+
+BitCoin: bc1qv09hxpge9tv6zl74778un0x7t7fjlql8h3842r
+
+ETH : 0xE0EaeA32a24c1559E17ba374FD004823B1fbB15B
+
 ## Download
 [UniversalAMDFormBrowser](UniversalAMDFormBrowser.zip)
 
