@@ -43,11 +43,15 @@ On AMI Bios, in addition to AMD PBS and CBS will be shown also "Setup", this is 
 
 ## Donate
 
-I'll leave these two crypto addresses here, just in case :-D : note this goes to the original creator of this tool not me
+If you want to donate/support please consider supportorting on:
+
+[Patreon](https://www.patreon.com/SmokelessCPU)
 
 BitCoin: bc1qv09hxpge9tv6zl74778un0x7t7fjlql8h3842r
 
 ETH : 0xE0EaeA32a24c1559E17ba374FD004823B1fbB15B
+
+note this goes to the original creator of this tool not me
 
 ## Download
 [UniversalAMDFormBrowser](UniversalAMDFormBrowser.zip)
