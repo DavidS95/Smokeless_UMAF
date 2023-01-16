@@ -12,6 +12,7 @@ USE AT YOUR OWN RISK
 
  **Using this tool you agree also to this rule**
  **Think twice before committing any change**
+ **These are real bios settings treat them as such**
 
 Changing setting could lead to brick, so handle with care, and be sure to have a method to recovery your device if things go wrong.
 
@@ -24,10 +25,13 @@ Changing setting could lead to brick, so handle with care, and be sure to have a
     Proper Fix will be pushed when ready
 
 * Might not work on some Bios like the Thinkpad one
+* Doesnt work on the 6000 series(Rembrant) versions of the Onexplayer, AOKZOE, and AYANEO devices
 
 ## Dangerous Setting
 Know setting that will make your device brick
 * P0State Vid 
+* Curve Optimizer - however this can be done through windows using UXTU
+
 ## How this work
 AMD PBS/AMD CBS and possibly AMD Overclocking (Aod_Setup) export their HII database regardless of the manufacturer, so if we can load these we can access these menus without problem.
 
