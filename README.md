@@ -70,7 +70,8 @@ ETH : 0xE0EaeA32a24c1559E17ba374FD004823B1fbB15B
 
 note this goes to the original creator of this tool not me
 
-# Anything that you feel should be included above that is useful? Let me know
+# Anything that you feel should be included above that is useful? 
+# Let me know
 
 ## Download
 [UniversalAMDFormBrowser](UniversalAMDFormBrowser.zip)
