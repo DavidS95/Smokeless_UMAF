@@ -79,5 +79,6 @@ note this goes to the original creator of this tool not me
 ![DevM](Photo/DevM.jpg)
 ![CBS](Photo/CBS%20Menu.jpg)
 ![SAVE](Photo/Save%20Promt.jpg)
+*This should be how the usb should be set up fat32, with the folder you downloaded unzipped and placed into the root of the flash drive
 ![USB](Photo/USB.png)
 
