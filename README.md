@@ -44,13 +44,18 @@ Extract in a FAT32 USB, and boot from it, it will load the custom bios UI, Now i
 
 On AMI Bios, in addition to AMD PBS and CBS will be shown also "Setup", this is the regular bios, the edit here might not be saved (AMD PBS/CBS, Aod Setup)
 
-# Notable Settings
-* Ram Overclocking - Works on Picasso Apus and Renior "U" and Luccine "U" Apus up to 3200mhz and full timing control, Works on Renior "H" apus up to 4400mhz full timing control, also works on Steam deck and might work on some Rembrant models however issues have been noted with this. Might work with CZN HX and HS apus with the amd overclocking menu but does not work on them otherwise.
-Disabling gear down mode, power down mode, and setting the command rate seems to work on every apu
+# Notable Options
+* Ram Overclocking - Works on Picasso Apus and Renior "U" and Luccine "U" Apus up to 3200mhz and full timing control, Works on Renior "H" apus up to 4400mhz full timing control, also works on Steam deck apparently and might work on some Rembrant models however issues have been noted with this. 
+    Might work with CZN HX and HS apus with the amd overclocking menu but does not work on them otherwise.
+    Disabling gear down mode, power down mode, and setting the command rate seems to work on every apu
 
 * UMA buffer size - works on all apus allows for different "Vram" amounts
 
+* FCLK Control - Works for Renior H and might work for steam deck, CZN apus, and Rembrant apus.
+
 * AMD Overclocking menu - Most settings that are in here should work if the menu appears for you
+
+
 
 ## Donate
 
@@ -74,4 +79,5 @@ note this goes to the original creator of this tool not me
 ![DevM](Photo/DevM.jpg)
 ![CBS](Photo/CBS%20Menu.jpg)
 ![SAVE](Photo/Save%20Promt.jpg)
+![USB](Photo/USB.png)
 
