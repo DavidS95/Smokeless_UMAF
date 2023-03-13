@@ -45,8 +45,9 @@ Extract in a FAT32 USB, and boot from it, it will load the custom bios UI, Now i
 On AMI Bios, in addition to AMD PBS and CBS will be shown also "Setup", this is the regular bios, the edit here might not be saved (AMD PBS/CBS, Aod Setup)
 
 # Notable Options
-* Ram Overclocking - Works on Picasso Apus and Renior "U" and Luccine "U" Apus up to 3200mhz and full timing control, Works on Renior "H" apus up to 4400mhz full timing control, also works on Steam deck apparently and might work on some Rembrant models however issues have been noted with this. 
-    Might work with CZN HX and HS apus with the amd overclocking menu but does not work on them otherwise.
+* Ram Overclocking + Timings - Works on Picasso, Renior "U" and Luccine "U" apus up to 3200mhz, on Renior "H" apus up to 4400mhz, on Steam Deck.
+
+    Might work on some Rembrant models, or CZN HX and HS apus with though the amd overclocking menu however all of these apus might have issues expect failure.
     Disabling gear down mode, power down mode, and setting the command rate seems to work on every apu
 
 * UMA buffer size - works on all apus allows for different "Vram" amounts
@@ -69,7 +70,7 @@ ETH : 0xE0EaeA32a24c1559E17ba374FD004823B1fbB15B
 
 note this goes to the original creator of this tool not me
 
-# If there is anything that you feel would be useful that should be included above but is not let me know.
+# Anything that you feel should be included above that is useful? Let me know
 
 ## Download
 [UniversalAMDFormBrowser](UniversalAMDFormBrowser.zip)
@@ -79,6 +80,6 @@ note this goes to the original creator of this tool not me
 ![DevM](Photo/DevM.jpg)
 ![CBS](Photo/CBS%20Menu.jpg)
 ![SAVE](Photo/Save%20Promt.jpg)
-*This should be how the usb should be set up fat32, with the folder you downloaded unzipped and placed into the root of the flash drive
+*T his should be how the usb should be set up fat32, with the folder you downloaded unzipped and placed into the root of the flash drive
 ![USB](Photo/USB.png)
 
