@@ -29,7 +29,7 @@ Changing setting could lead to brick, so handle with care, and be sure to have a
 ## Dangerous Setting
 Know setting that will make your device brick
 * P0State Vid 
-* Curve Optimizer for certain apus notably 5000 series - however this can be done through windows using UXTU for all affected models
+* Curve Optimizer for certain apus commonly unlocked 5000 series - however this can be done through windows using UXTU for all affected models
 
 ## How this work
 AMD PBS/AMD CBS and possibly AMD Overclocking (Aod_Setup) export their HII database regardless of the manufacturer, so if we can load these we can access these menus without problem.
