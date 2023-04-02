@@ -10,11 +10,13 @@ I'm not responsible for any damage resulting from the use of this Tool, Also thi
 
 USE AT YOUR OWN RISK
 
- **Using this tool you agree also to this rule**
+ **Using this tool you agree also to these rules**
  **Think twice before committing any change**
  **These are real bios settings treat them as such**
+ **Not Evey option visable works or should be used**
+ **These are even more true with the BETA version**
 
-Changing setting could lead to brick, so handle with care, and be sure to have a method to recovery your device if things go wrong.
+Changing setting could lead to brick, so handle with care, and be sure to have a method to recovery your device if things go wrong. For most options a bios clear is suitable however for some of the dangerous settings you might need a proper reflash which is why they are dangerous settings.
 
 # Know Problem (Read This)
 * Dell User have reported than the normal bios will not load anymore after using this :
@@ -56,7 +58,9 @@ On AMI Bios, in addition to AMD PBS and CBS will be shown also "Setup", this is 
 
 * AMD Overclocking menu - Most settings that are in here should work if the menu appears for you
 
+To have the best chance of talking to me or the creator of this tool this is the server to join [Isle of Zen](https://discord.gg/isle-of-zen-772105072720871435))
 
+Reporting issues and asking about behavoir is best done there in #help-n-support
 
 ## Donate
 
