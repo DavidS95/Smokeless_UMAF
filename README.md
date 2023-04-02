@@ -58,7 +58,7 @@ On AMI Bios, in addition to AMD PBS and CBS will be shown also "Setup", this is 
 
 * AMD Overclocking menu - Most settings that are in here should work if the menu appears for you
 
-To have the best chance of talking to me or the creator of this tool this is the server to join [Isle of Zen](https://discord.gg/isle-of-zen-772105072720871435))
+To have the best chance of talking to me or the creator of this tool this is the server to join [Isle of Zen](https://discord.gg/isle-of-zen-772105072720871435)
 
 Reporting issues and asking about behavoir is best done there in #help-n-support
 
