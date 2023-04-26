@@ -1,12 +1,12 @@
 # Bios Flasher? Where We’re Going, We Don’t Need Bios Flasher?
 
 ## What this can do
-With this tool you can Access and modify AMD PBS/AMD CBS Menu and possibly AMD Overclocking without flashing, and by just booting from a USB drive
+With this tool you can access and modify AMD PBS/AMD CBS Menu and possibly AMD Overclocking without flashing, and by just booting from a USB drive
 
 
 ## Disclaimer
 
-I'm not responsible for any damage resulting from the use of this Tool, Also this is a backup of the original project;
+I'm not responsible for any damage resulting from the use of this tool. Also, this is a backup of the original project;
 
 USE AT YOUR OWN RISK
 
@@ -16,28 +16,28 @@ USE AT YOUR OWN RISK
  **Not Evey option visable works or should be used**
  **These are even more true with the BETA version**
 
-Changing setting could lead to brick, so handle with care, and be sure to have a method to recovery your device if things go wrong. For most options a bios clear is suitable however for some of the dangerous settings you might need a proper reflash which is why they are dangerous settings.
+Changing setting could lead to bricking your device, so handle with care. Be sure to have a method to recover your device if things go wrong. For most options a bios clear is suitable, however for some of the more dangerous settings, you might need a proper reflash, which is why they are classed as "dangerous settings".
 
-# Know Problem (Read This)
-* Dell User have reported than the normal bios will not load anymore after using this :
+# Known Problem (Read This)
+* Dell user(s) have reported that the normal bios will not load anymore after using this :
 
-    Fix Thank to (BIT_GAM3R and the Gaming [Laptop Mod Discord Comunity](https://discord.gg/FDgUR5cpCg)):
+    Fix thanks to (BIT_GAM3R and the Gaming [Laptop Mod Discord Comunity](https://discord.gg/FDgUR5cpCg)):
     
-    Boot the Tool, access the BootManager, and delete the Misc Option, they should not be there, are created by a bug, if you tryed access the BootManager Before...
-    Proper Fix will be pushed when ready
+    Boot the tool, access the BootManager, delete the Misc Option, this should not be there, it is created by a bug. If you tried accessing the BootManager before...
+    A proper fix will be pushed when ready
     
 * Doesnt work on the 6000 series(Rembrant) versions of the Onexplayer, AOKZOE, and AYANEO devices
 
-## Dangerous Setting
-Know settings that will make your device brick - Note this primarily refers to the "locked" intergrated laptop/ handheld APUs rather than unlocked desktop APUs or CPUs
+## Dangerous Settings
+Known settings that will make your brick your device - Note this primarily refers to the "locked" intergrated laptop/ handheld APUs rather than unlocked desktop APUs or CPUs
 * P0State Vid 
 * Curve Optimizer for certain APUs commonly unlocked 5000 series - however this can be done through windows using UXTU for all affected models
 
-## How this work
-AMD PBS/AMD CBS and possibly AMD Overclocking (Aod_Setup) export their HII database regardless of the manufacturer, so if we can load these we can access these menus without problem.
+## How this works
+AMD PBS/AMD CBS and possibly AMD Overclocking (Aod_Setup) export their HII database regardless of the manufacturer, so if we can load these we can access these menus without a problem.
 
-This package includes two main component a Loader and the UI component, the latter one are build from a standard edk2 Package.
-On boot from usb the Loader will unregister the existing bios FormBrowser and will load this custom one, proving the new interface for this boot.
+This package includes two main components: a Loader and the UI component. The latter one are built from a standard edk2 Package.
+On boot from USB the Loader will unregister the existing bios FormBrowser and will load this custom one, proving the new interface for this boot.
 
 The only drawback of this method is that you need to boot from USB to accessed these menus.
 
@@ -84,6 +84,6 @@ note this goes to the original creator of this tool not me
 ![DevM](Photo/DevM.jpg)
 ![CBS](Photo/CBS%20Menu.jpg)
 ![SAVE](Photo/Save%20Promt.jpg)
-*T his should be how the usb should be set up fat32, with the folder you downloaded unzipped and placed into the root of the flash drive
+* This should be how the usb should be set up fat32, with the folder you downloaded unzipped and placed into the root of the flash drive
 ![USB](Photo/USB.png)
 
