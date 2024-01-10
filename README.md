@@ -29,7 +29,7 @@ Changing setting could lead to bricking your device, so handle with care. Be sur
 * Doesnt work on the 6000 series(Rembrant) versions of the Onexplayer, AOKZOE, and AYANEO devices
 
 ## Dangerous Settings
-Known settings that will make your brick your device - Note this primarily refers to the "locked" intergrated laptop/ handheld APUs rather than unlocked desktop APUs or CPUs
+Known settings that will make you brick your device - Note this primarily refers to the "locked" intergrated laptop/ handheld APUs rather than unlocked desktop APUs or CPUs
 * P0State Vid 
 * Curve Optimizer for certain APUs commonly unlocked 5000 series - however this can be done through windows using UXTU for all affected models
 
